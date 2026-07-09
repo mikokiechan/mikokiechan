@@ -1,4 +1,9 @@
 ```python
+#This source code is for discord owo bot automation (owo hunt and owo battle)
+#but please note that this still might detect as spamming so please don't fall asleep while using this code
+
+#I was banned for 3 months when I did it.
+
 import pyautogui
 import time
 import random
